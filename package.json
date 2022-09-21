@@ -26,6 +26,6 @@
     },
     "dependencies": {
         "bootstrap-vue": "^2.4.0",
-        "vuetify": "^2.2.8"
+        "vuetify": "^2.6.10"
     }
 }
